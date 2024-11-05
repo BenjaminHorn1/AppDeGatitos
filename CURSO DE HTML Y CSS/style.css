@@ -3,6 +3,7 @@ h2{
   font-weight: 400;
   font-style: normal;
   font-size: 40px;
+  background-color: rgb(205, 174, 154);
 }
 
 h3{
@@ -25,6 +26,7 @@ img{
 
 div{
   padding: 30px;
+  background-color: rgb(170, 167, 226);
 
 }
 
@@ -45,4 +47,3 @@ div{
 body {
   background-color: rgb(156, 126, 62);
 }
-
