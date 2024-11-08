@@ -1,0 +1,49 @@
+h2{
+  font-family: "Bona Nova SC", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 40px;
+  background-color: rgb(205, 174, 154);
+}
+
+h3{
+  font-family: "Bona Nova SC", serif;
+
+}
+
+/*Esto aplica a todas las imagenes (universal) */
+/*Hay que usar clases para especificarlas*/
+
+img{
+  width: 300px;
+  border-width: 5px;
+  border-color: black;
+  border-style: solid;
+  border-radius: 20px;
+  margin: 15px;
+  margin-left: 0px;
+}
+
+div{
+  padding: 30px;
+  background-color: rgb(170, 167, 226);
+
+}
+
+#titulo-app-gatos{
+  font-size: 30px;
+  color: black;
+  font-family:"Bona Nova SC", serif; 
+}
+
+[type="radio"] {
+  margin: 5px;
+}
+
+[type="checkbox"] {
+  margin: 5px;
+}
+
+body {
+  background-color: rgb(156, 126, 62);
+}
